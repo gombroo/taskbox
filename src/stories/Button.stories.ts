@@ -10,6 +10,10 @@ export default {
   argTypes: {
     backgroundColor: { control: 'color' },
   },
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/DY8LSKWsDzxN5pqPqopTqr/IIBA?node-id=2%3A54',
+  },
 } as Meta;
 
 // More on component templates: https://storybook.js.org/docs/angular/writing-stories/introduction#using-args
@@ -21,22 +25,22 @@ export const Primary = Template.bind({});
 // More on args: https://storybook.js.org/docs/angular/writing-stories/args
 Primary.args = {
   primary: true,
-  label: 'Button',
+  label: 'Button Primary',
 };
 
 export const Secondary = Template.bind({});
 Secondary.args = {
-  label: 'Button',
+  label: 'Button Secondary',
 };
 
 export const Large = Template.bind({});
 Large.args = {
   size: 'large',
-  label: 'Button',
+  label: 'Button Large',
 };
 
 export const Small = Template.bind({});
 Small.args = {
   size: 'small',
-  label: 'Button',
+  label: 'Button Small',
 };
