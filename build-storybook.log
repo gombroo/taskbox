@@ -21,411 +21,413 @@ Node.js version : v16.17.0
 
 Operating system : Windows 10
 
-[16:18:11] No configuration file found, switching to CLI flags.
-[16:18:11] Using tsconfig file : C:\projects\taskbox\tsconfig.json
-[16:18:11] Including      : C:\projects\taskbox\.gitignore
-[16:18:11] Including      : C:\projects\taskbox\.editorconfig
-[16:18:11] Including      : C:\projects\taskbox\.browserslistrc
-[16:18:11] Including      : C:\projects\taskbox\angular.json
-[16:18:11] Including      : C:\projects\taskbox\build-storybook.log
-[16:18:11] Including      : C:\projects\taskbox\documentation.json
-[16:18:11] Including      : C:\projects\taskbox\package-lock.json
-[16:18:11] Including      : C:\projects\taskbox\jest.config.js
-[16:18:11] Including      : C:\projects\taskbox\LICENSE
-[16:18:11] Including      : C:\projects\taskbox\package.json
-[16:18:11] Including      : C:\projects\taskbox\tsconfig.json
-[16:18:11] Including      : C:\projects\taskbox\tsconfig.app.json
-[16:18:11] Including      : C:\projects\taskbox\README.md
-[16:18:11] Including      : C:\projects\taskbox\tsconfig.spec.json
-[16:18:11] Including      : C:\projects\taskbox\.storybook\main.js
-[16:18:11] Including      : C:\projects\taskbox\.storybook\tsconfig.json
-[16:18:11] Including      : C:\projects\taskbox\.storybook\preview.js
-[16:18:11] Including      : C:\projects\taskbox\jest-config\setup.ts
-[16:18:11] Ignoring       : C:\projects\taskbox\.storybook\typings.d.ts
-[16:18:11] Including      : C:\projects\taskbox\src\favicon.ico
-[16:18:11] Including      : C:\projects\taskbox\src\index.html
-[16:18:11] Including      : C:\projects\taskbox\src\main.ts
-[16:18:11] Including      : C:\projects\taskbox\src\polyfills.ts
-[16:18:11] Including      : C:\projects\taskbox\src\styles.css
-[16:18:11] Including      : C:\projects\taskbox\jest-config\__mocks__\globalMocks.ts
-[16:18:11] Including      : C:\projects\taskbox\src\assets\.gitkeep
-[16:18:11] Including      : C:\projects\taskbox\jest-config\__mocks__\fileMock.js
-[16:18:11] Including      : C:\projects\taskbox\jest-config\__mocks__\styleMock.js
-[16:18:11] Including      : C:\projects\taskbox\src\environments\environment.ts
-[16:18:11] Including      : C:\projects\taskbox\src\environments\environment.prod.ts
-[16:18:11] Ignoring       : C:\projects\taskbox\src\app\app.component.spec.ts
-[16:18:11] Including      : C:\projects\taskbox\src\app\app.component.html
-[16:18:11] Including      : C:\projects\taskbox\src\app\app.component.css
-[16:18:11] Including      : C:\projects\taskbox\src\app\app.component.ts
-[16:18:11] Including      : C:\projects\taskbox\src\app\app.module.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\button.component.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\Button.stories.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\button.css
-[16:18:11] Including      : C:\projects\taskbox\src\stories\header.css
-[16:18:11] Including      : C:\projects\taskbox\src\stories\header.component.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\Header.stories.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\Introduction.stories.mdx
-[16:18:11] Including      : C:\projects\taskbox\src\stories\page.component.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\page.css
-[16:18:11] Including      : C:\projects\taskbox\src\stories\Page.stories.ts
-[16:18:11] Including      : C:\projects\taskbox\src\stories\User.ts
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.svg
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.eot
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.woff
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
-[16:18:11] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
-[16:18:11] Including      : C:\projects\taskbox\src\assets\icon\percolate.eot
-[16:18:11] Including      : C:\projects\taskbox\src\assets\icon\percolate.svg
-[16:18:11] Including      : C:\projects\taskbox\src\assets\icon\percolate.ttf
-[16:18:11] Including      : C:\projects\taskbox\src\assets\icon\percolate.woff
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\code-brackets.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\colors.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\comments.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\direction.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\flow.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\plugin.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\repo.svg
-[16:18:11] Including      : C:\projects\taskbox\src\stories\assets\stackalt.svg
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\019a73292a48724f851fb0ed1375ebf5.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\00e543cd52638bc14eda7d66d60feda4.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\052968bfbd3cf88791351ed6e5a1a0fd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\020237d54003037df8cafc74ec8e845b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\0186fbc97a533f1d6bd884e67ebc8d41.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\0720d0baa5cb302e062a81a0c0f65aa9.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\09d3db9d7b395874f5aadc68de5fb141.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\0380f6246e86cdaa0906c83b43581759.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\12ac8a881dae12fe36fe4e3e8d1924c1.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\099ad21208c608049eb11d06a738fe2e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\13aaa368ca3151ec92bf866af7779669.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\1a0d74cc3ff9edfb807d3a210bf07900.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\1e5d1f5669e93f48cae3b6bb0d31df28.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\1e8f18b999ab734773e6f00840e30657.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\22accc5350aa1d7ffd8e6e2797d37788.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\15f958a3a7ac4021873b031b85d3cb91.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\23fd1763362392cf14fbdaeaeae68cb2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\26f4f19039bf400be9d1c66cda8bbc8b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2800a12efb41069de5dfb103da1af789.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\269658fbff412225fcaf6ac96f651529.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2b493a6d4fd89ae94df5e17ca7ab9635.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2c0f383e388906195f5253302b5727f7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2f43740bd31030df190299a1078bdf82.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2bac8f2585eb3df174808cd2b4ef6cd8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2d4aa9d16f40874f593ceded8154805f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3250800e00cdd6b8f126ff265a294d0b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\34326a0c56d0f9e0d49fa35f09e6edae.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2ff3d2443aa0253f45eb70aebb1f82b8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\367fd4b82d0bfebf861136c9553dbf1e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\310419a779e6878623c1917418c2c61e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\340035f58324e1da75af54dde99369d9.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\39f783d6aa36b02084f0feabeaad86c9.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3beb564fbcb9c1da4dac0bb76e9e5165.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3e5f249a7b59f08d2df316096d4777d7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3cf7173c44df8153c4794cd2a5bc090c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3a2ff60b84f0d4958b819eb28111fb66.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\40a4607d94731b34beea0ba1a08e3eec.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3faeb2e36b9f97767e509dc07a5a3bc0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\44422c0b8adef090e68ff106910fb75d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\49fb7f848183a5c4f0628a8bf607280c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\46e1189dbbe410d6c8750f08c3089213.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4a71928e7030ea6f23a83aa2a4460bc5.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4be81997332e4844359c36e42793480c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5085888430d91e0a88177dd54c23acd8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4c3afdb408fbf36518069d2a372835d7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4bf2dc250a313a25d5a0612849fc05cc.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4a1d7628706fd3d2cbdfaa97088ac869.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\54dcfd289cad6b04f7f9118ac427c40d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\54cf0bb02d8fac418a6b4ebc874cee5e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\567f5bce997629792b0ccb4964a0af03.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\57351ad2cc4d7c459895738e72bb2ccd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\53f541e2233d23f5b4f5c2c20e654e5d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5b6784a3f11ba308810203ac59f9376c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\513128380f45b09c0aed3ec76b641258.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5c20eff600877d9b4f2d58e74f26e4f3.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5e55ea1c8c9744e552390c487cec37bf.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5fb382b47ff8e8c7d78753302e54ad89.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\61c55b5df8dc88ef04043ed07b88788f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6365e48df67676eb0f8d97cb325e2a80.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\64a30c00c25d057e56330ab72ebd7758.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\69647ea0722dd3ffa3d4d9b22b03570f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6beb8dcea4dda8e53fee4b03d5d6c06f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6e17fd0de4e99edd6b1b72c446f60e17.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6cc774eaf8b3cd595cb6fb76821bbfbd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6e45d6e3299e98215413f6b19d2a2de0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6fcc313a15d286050082bac3d28df081.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6f3c08cd6015c450a8ee62a6c4955d88.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6e1b8c6cd55f8123b81b85f9d4bea2de.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\70066d613342ff5db1e5a9ecc7a5a6e8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\710f84534d630e7bafed9da7bd4815e3.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\725c27b86eb0056bae6a8beca4d6853d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\737deb05d90cbdbdfe4937c58b8c26ea.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\758348bda5b4902390b42a9007d1fc33.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7528efee269adb55f35064fb734c4902.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\766de9c76e7a0d02146b2056ee5b1187.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\77b37488d4c43477c736775a16b65cb1.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\791db32e3f68deb483b972e467923287.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\73be7a9771fe3631405b688fe1335009.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7abdeaafa29f36f20e2f83d87494e030.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\79289d7085fe29c4606ed9a073e2dbb2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7b5346eaf21a8375dfb51de918dc6c1f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\817379d574931feeafd0a02334965d23.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7bd7faaabfdbefce3638c4033eb90f25.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\824622ebfcab491274c903ea32966aaf.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\82d738ba205e8be5064804aab7d0988e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\825aead2414c68a08365299d87974118.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\838997e9a615817e4646f4f6ac12bb71.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\84361762f8aa4415f1fea9fb90569768.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\857f354c69ac8677dfed434a353e74a8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9358ca37efd659a80fff12a58ad8b735.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\8db1e650f11ba6a1ec2c724eea65b6e4.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\923c18be994e63ccef36cf41f76571e5.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\94e23001bda5cfb7b180849e9a9f6185.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\956c2fc4abec29c178257616b48a7072.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\966fef4a94032cc5707cc39cd580723e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9354987d2179cecbdc3a3bf7cd295dde.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9baa43f21869e07e57a3643d2851db9d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9f2b7dbf0b5dc83ff174f0857d3762a2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a2017578fce0b8d32b9946828d17b24b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9fc86343d4d1e9c87b7a1ea30b797b20.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a3245acc73fbc9f423419e350e7a1e14.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9ac613261b492de35796f89dc351346b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a49d1477e2b21491ee8a955b35acb00c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a3dd0989ae6116cad7ea95c80b11d471.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b08fc00129baae67c6c0a97dd2d146c7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b19ff1e05a5a254f1efdd5567f33d62b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b456d0a7caef40f2a173046f6113714a.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b4d0278df4c3b38e07598df0375f619b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b8918f177305378b58b4e47284d63538.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ba35347c2ade322988f8e62375db1746.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\baee087d75d7d84d78621debd60aa645.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bcf4776373f314aced4ccb165adb8826.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bc17961134bf7cfffabe76888e278bac.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bf843be65808959ea8d65ffe6e427991.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c1825675773ea8a0482a30210bfb818f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b950b1b2016557fdf6a85aad3cda1c27.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c3200956a6a2f88963f48314d4f1f261.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c164b43bd50589ef71a38907ef23e8a0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c6a489e5958b17f42f47a62f406ed057.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c5fcd8e74ec8f5d6daa1713148aa8b86.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d1195326b45987f77bf373efaf78af40.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c7afcba3252c6bbceab8c8ed940054ab.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d4598178dc6db1dccc93c9e742626043.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d2877dca1bf63398af4766f1e812c8dc.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d49beeb069d697ad5bf39c2ea969cb60.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d5ec7189d3add7184ed2ac83083cd716.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d6c35d615f4def92f293aa8ca70742a0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d7783e0225db50fddd295675db4370f3.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d832cc167263dc16704367d1a25c71bb.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d8e252e73d4d0d8fda32607db3145753.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d8c5dddffdd05210a723d804598c56c1.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ded2e2c778bee72989c72ca3e89841f7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\dff5548978a334b27847d2bab6fb3e3a.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\dfe8d643d7dc082d4625e01a71dba089.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e045f3c4691f30031191fe6850c469bc.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e0f02a28380ce7df59ded23dc6e824df.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e0e3c553b892dcc382b39b4d17d487c8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e80aef974cfe9d4ac876d89648b8f4dd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e9b10258426749034c57682a6e9b92b1.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\eb29eaed23089460295dbe21343b3f4b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\eb941824f5bce6063b77c8c5a3469e68.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e82e603fd08c5b04262b9408f3f04940.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e6b6cbca2e82390e7e2cc5f3dc9a116e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ea510e217c2ac059f0b77c6599898eea.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ef5c2f62049e5fb15452fbada3dbe186.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ecc420afc2a5e9872b7ea0c62c6b9776.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\f37e7b90ef3260920acbd699872a837d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\f9e059123220993d4b9ee9125d7fdacd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\f7878e58a5923dd664197258ae30fd58.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fa9cee9e0836f66ad93ca65d44c2432f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fb688d71c6e71c2487957b410e8aabee.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fcc48c88ea79213bffc2242c9987db95.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fcfe7cf710e82c21f10e80551e320450.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\02c16d1d8af57bffe22d6a55160dd26f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\037c8913f91b938cc51885720eab48bb.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\09b01a6b04953db2f47091611f211ec4.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\0c8a6f0fe5318dcec3b64a87c6337eda.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\0fd6144761b8b549970119d9d3d677f2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\108af7136122b80d39bca906e14272b0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\12dc169fbb750ba3d8e4a32313a9407b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\16ed07e616703a521410127695370bd6.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\188de29c28b4041a593e943f54832d7c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\1816138500537dcd1df53d63401ae5ca.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\1fc45c61f22d6166f3e2afe5298a938f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\1fd1ff2b722a08832f9e68ecd0c0e0e9.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\21b48b534bbf1b22482f66fd0171af29.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\223c722c2967e12cf6600b2c3e1c7f5b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\290d4665bee6f93663b4fd10617099fc.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\2267457ce9e91ac3ac01559be6a8071b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\34cbaf6058dc03f0aeda36aee5e3be34.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\36ca6a14d8db924f44e90350bc0e1bc4.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\3111528918f93783843c73f7d274d95a.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\2a20fe29e9f99d714a91114433d44f41.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\39d0730ce0dbb3dbf965713597bab46a.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\38f32b293ec53b8c05f3c1dddcca3f7d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\3a8ae8bd20563ac2c768c0242dbec25d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\3b5524642f22c20d85e08dcac9b5fed1.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\41a02253c7d738d8bdd64b636490647c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\42ab83dc5b15d834201fc95ec8a2aac8.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\44609b5abb3843dbcd64d5d9cba4f2a0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\44f6325aa3aef610a94c746c3e78b3e2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\46034821f8a80b266f1f40c16a995eef.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\4e2d4096178952e9358760267f3068a2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\50bc106405f9e8322752c42bcfbeccf7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\5ce5326953c03c14557c43ad1f3b294f.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\5c088162cc0adc82face9889a431845c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\60b5a8a511825a9e1ddcecdf5808c69c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6447b8cc92726b0a58715b9865e3ce70.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\5ff2dc2f02b74330ee891cad21881249.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\694da84f9514b3b952c5a4a85d6af737.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6a4719503dc602d2dee4d058d26c6f0d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6a760d4a1de7db98cfbfea54c6c1c0ef.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6c1b801458dde583d8f304c28df1aee7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6ebd497e13b77ac17c5562e54b723551.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6d240aa7b937bd2384ba97f5105229ec.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\712bef01a1e2ab8cfdfd6b9218a0daca.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\73afbe6d6c789e2d78c9fe55cd6453c9.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\72e22a8c1b686f6df7ebde0936510597.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\754462884ffaaa9c54753535caaa6f38.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\7748f7afa50aa73c7b8a65e3d25e3e81.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\79325e573be1ab735164031dd646d2a6.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\7ad3876b9c11544f56211f32d27c1393.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\7abedca084e2b314f3b7a5b815bc9058.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\81b694318860aec6250532e27bf22dbd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\83b48d0183db623166c1beab02d2de46.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8660407c4db0ae2e313efc32246d7e2c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\869917e4b3d993ae5370d96f486afe9e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8724ca518c8e3de03cb0bb427988ee2e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8c864aba3b5ad924c553107b84e8c544.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8b6a9eb8daf4ad9cd8862b946997380c.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8eb314c2e2b13cb141de7581817cb6a7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8e60eb6807a8c33a90f1f0041e4cfd6e.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\913cd40413a72044046a526caa4f42c7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9152859c2781654fedddb6d46d9208a6.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\953de71b21899775d1cf16708148367b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9ce7f8f6479cdb88e22818b6091d5ca0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9dc517710fb1812e2184a46a9f1bad6d.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9ea16847e7d3d1b55641a2ed8436f7d0.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a1eb64a9b2b614a9d8be6fef724e5321.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a2b034e5945d91fb6bf19df87e0c05bf.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a50c37eadcb6533058febdf9ee305662.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a6c3f8f99fe2fb213de0a52f7be70948.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a57b02cb2d1d750a0444efc1dabd94ea.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a6c53c394ce0838c62a6acafe3946c57.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a773fdab5061eb064043fa7fb78d98de.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a6c76bd2dc50f8037176d9fd09b0d471.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ac435a09bbbafb04f8d2b56aeb264731.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b01ce62b57eab41305b48f255669a0c7.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\af3c782b23e41da457b7ebe1878dda29.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b2b79ad3875d815eaea84ead98f858ef.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b5aed229a22cc2294249bd2b8e2b3b24.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b7eea2c9f7f36d5db7d8c1f8db465084.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\c2560bca4f5d6f345d24c7e3dd907a66.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\bf5104f965a4d7712917d549fefac9d4.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\c6fdfcea6dca0ab0cbf1b85dee39d3d2.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\c85d871e2031e0aef7bb6d2d65b88795.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\caaf46dc759043da6104eeab659b30d1.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\d39a0b90b5a9d2a623c95aa05df0c7fd.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\d3aab46158aecee71ba1c90dfdc47033.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\d912de19187ff98cf27a365586909f9b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\e28fe85a3565353dad645edfd7b2f4d5.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\e0194c01e964ffd087193926fefcfcea.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ed9a7e1aafc54c8aa176fcf9c1c64c93.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ec0271ef75942bd18696281702786b08.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\eebb485ae96bd2a8639bf5c4467de683.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f10a80aef1627b2f50fb3e3fbb55f655.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f0ba09d5facd7507460df95f81c6ad03.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f11711e233685eed7715a237641e2bdf.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f2bdcc7842b3aa9c3f1bf547a9431767.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f3f5bc7714ff858e0451a356aebe614b.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fc94b097d88056083df99145bb3a1b53.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fcde56e1a0348131a0af049ab796fe60.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fe1f9c5ca3ca653985bcc4e81aef1168.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fe77eeb3d41d31408bddb8c12e05b742.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ff37111e1571b87b939ddea2c9e92ef9.json
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\1.pack
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\0.pack
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\3.pack
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\index.pack
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\index.pack.old
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\4.pack
-[16:18:11] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\2.pack
-[16:18:11] Searching package.json file
-[16:18:11] package.json file found
-[16:18:11] Processing package.json dependencies
-[16:18:11] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[16:18:11] README.md file found
-[16:18:11] Error during C:\projects\taskbox\CHANGELOG read
-[16:18:11] Continuing without CHANGELOG.md file
-[16:18:11] Error during C:\projects\taskbox\CONTRIBUTING read
-[16:18:11] Continuing without CONTRIBUTING.md file
-[16:18:11] LICENSE.md file found
-[16:18:11] Error during C:\projects\taskbox\TODO read
-[16:18:11] Continuing without TODO.md file
-[16:18:11] Get dependencies data
-[16:18:11] parsing        : C:/projects/taskbox/jest-config/setup.ts
-[16:18:11] parsing        : C:/projects/taskbox/src/main.ts
-[16:18:12] parsing        : C:/projects/taskbox/src/polyfills.ts
-[16:18:12] parsing        : C:/projects/taskbox/jest-config/__mocks__/globalMocks.ts
-[16:18:12] parsing        : C:/projects/taskbox/src/environments/environment.ts
-[16:18:12] found          : environment
-[16:18:12] parsing        : C:/projects/taskbox/src/environments/environment.prod.ts
-[16:18:12] found          : environment
-[16:18:12] parsing        : C:/projects/taskbox/src/app/app.component.ts
-[16:18:12] found          : AppComponent
-[16:18:12] parsing        : C:/projects/taskbox/src/app/app.module.ts
-[16:18:12] found          : AppModule
-[16:18:12]                : - imports:
-[16:18:12]                : 	- BrowserModule
-[16:18:12]                : - declarations:
-[16:18:12]                : 	- AppComponent
-[16:18:12]                : - bootstrap:
-[16:18:12]                : 	- AppComponent
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/button.component.ts
-[16:18:12] found          : ButtonComponent
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/Button.stories.ts
-[16:18:12] found          : Template
-[16:18:12] found          : Primary
-[16:18:12] found          : Secondary
-[16:18:12] found          : Large
-[16:18:12] found          : Small
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/header.component.ts
-[16:18:12] found          : HeaderComponent
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/Header.stories.ts
-[16:18:12] found          : Template
-[16:18:12] found          : LoggedIn
-[16:18:12] found          : LoggedOut
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/page.component.ts
-[16:18:12] found          : PageComponent
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/Page.stories.ts
-[16:18:12] found          : Template
-[16:18:12] found          : LoggedOut
-[16:18:12] found          : LoggedIn
-[16:18:12] parsing        : C:/projects/taskbox/src/stories/User.ts
-[16:18:12] found          : User
-[16:18:12] -------------------
-[16:18:12] Project statistics 
-[16:18:12] - files      : 326
-[16:18:12] - module     : 1
-[16:18:12] - component  : 4
-[16:18:12] - interface  : 1
-[16:18:12] -------------------
-[16:18:12] Prepare components
-[16:18:12]  AppComponent has a templateUrl, include it
-[16:18:12]  AppComponent has styleUrls, include them
-[16:18:12]  ButtonComponent has styleUrls, include them
-[16:18:12]  HeaderComponent has styleUrls, include them
-[16:18:12]  PageComponent has styleUrls, include them
-[16:18:12] Prepare modules
-[16:18:12] Prepare interfaces
-[16:18:12] Prepare miscellaneous
-[16:18:12] Process documentation coverage report
-[16:18:12] Generating documentation in export format json
-[16:18:12] Documentation generated in ./ in 0.853 seconds
+[11:20:28] No configuration file found, switching to CLI flags.
+[11:20:28] Using tsconfig file : C:\projects\taskbox\tsconfig.json
+[11:20:28] Including      : C:\projects\taskbox\.browserslistrc
+[11:20:28] Including      : C:\projects\taskbox\.gitignore
+[11:20:28] Including      : C:\projects\taskbox\.editorconfig
+[11:20:28] Including      : C:\projects\taskbox\angular.json
+[11:20:28] Including      : C:\projects\taskbox\build-storybook.log
+[11:20:28] Including      : C:\projects\taskbox\documentation.json
+[11:20:28] Including      : C:\projects\taskbox\jest.config.js
+[11:20:28] Including      : C:\projects\taskbox\LICENSE
+[11:20:28] Including      : C:\projects\taskbox\package.json
+[11:20:28] Including      : C:\projects\taskbox\README.md
+[11:20:28] Including      : C:\projects\taskbox\package-lock.json
+[11:20:28] Including      : C:\projects\taskbox\tsconfig.app.json
+[11:20:28] Including      : C:\projects\taskbox\tsconfig.json
+[11:20:28] Including      : C:\projects\taskbox\tsconfig.spec.json
+[11:20:28] Including      : C:\projects\taskbox\.storybook\tsconfig.json
+[11:20:28] Including      : C:\projects\taskbox\.storybook\main.js
+[11:20:28] Including      : C:\projects\taskbox\.storybook\preview.js
+[11:20:28] Ignoring       : C:\projects\taskbox\.storybook\typings.d.ts
+[11:20:28] Including      : C:\projects\taskbox\jest-config\setup.ts
+[11:20:28] Including      : C:\projects\taskbox\src\index.html
+[11:20:28] Including      : C:\projects\taskbox\src\favicon.ico
+[11:20:28] Including      : C:\projects\taskbox\src\main.ts
+[11:20:28] Including      : C:\projects\taskbox\src\polyfills.ts
+[11:20:28] Including      : C:\projects\taskbox\src\styles.css
+[11:20:28] Including      : C:\projects\taskbox\src\app\app.component.css
+[11:20:28] Including      : C:\projects\taskbox\src\app\app.component.html
+[11:20:28] Ignoring       : C:\projects\taskbox\src\app\app.component.spec.ts
+[11:20:28] Including      : C:\projects\taskbox\src\app\app.component.ts
+[11:20:28] Including      : C:\projects\taskbox\src\app\app.module.ts
+[11:20:28] Including      : C:\projects\taskbox\jest-config\__mocks__\fileMock.js
+[11:20:28] Including      : C:\projects\taskbox\jest-config\__mocks__\globalMocks.ts
+[11:20:28] Including      : C:\projects\taskbox\jest-config\__mocks__\styleMock.js
+[11:20:28] Including      : C:\projects\taskbox\src\environments\environment.ts
+[11:20:28] Including      : C:\projects\taskbox\src\environments\environment.prod.ts
+[11:20:28] Including      : C:\projects\taskbox\src\assets\.gitkeep
+[11:20:28] Including      : C:\projects\taskbox\src\stories\Button.stories.ts
+[11:20:28] Including      : C:\projects\taskbox\src\stories\button.component.ts
+[11:20:28] Including      : C:\projects\taskbox\src\stories\header.component.ts
+[11:20:28] Including      : C:\projects\taskbox\src\stories\button.css
+[11:20:28] Including      : C:\projects\taskbox\src\stories\Introduction.stories.mdx
+[11:20:28] Including      : C:\projects\taskbox\src\stories\header.css
+[11:20:28] Including      : C:\projects\taskbox\src\stories\Header.stories.ts
+[11:20:28] Including      : C:\projects\taskbox\src\stories\page.component.ts
+[11:20:28] Including      : C:\projects\taskbox\src\stories\page.css
+[11:20:28] Including      : C:\projects\taskbox\src\stories\Page.stories.ts
+[11:20:28] Including      : C:\projects\taskbox\src\stories\User.ts
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[11:20:28] Including      : C:\projects\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[11:20:28] Including      : C:\projects\taskbox\src\assets\icon\percolate.eot
+[11:20:28] Including      : C:\projects\taskbox\src\assets\icon\percolate.svg
+[11:20:28] Including      : C:\projects\taskbox\src\assets\icon\percolate.ttf
+[11:20:28] Including      : C:\projects\taskbox\src\assets\icon\percolate.woff
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\code-brackets.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\colors.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\direction.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\comments.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\plugin.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\flow.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\repo.svg
+[11:20:28] Including      : C:\projects\taskbox\src\stories\assets\stackalt.svg
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\02c16d1d8af57bffe22d6a55160dd26f.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\037c8913f91b938cc51885720eab48bb.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\09b01a6b04953db2f47091611f211ec4.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\0c8a6f0fe5318dcec3b64a87c6337eda.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\0fd6144761b8b549970119d9d3d677f2.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\108af7136122b80d39bca906e14272b0.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\12dc169fbb750ba3d8e4a32313a9407b.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\16ed07e616703a521410127695370bd6.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\1816138500537dcd1df53d63401ae5ca.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\188de29c28b4041a593e943f54832d7c.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\1fc45c61f22d6166f3e2afe5298a938f.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\1fd1ff2b722a08832f9e68ecd0c0e0e9.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\21b48b534bbf1b22482f66fd0171af29.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\223c722c2967e12cf6600b2c3e1c7f5b.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\2267457ce9e91ac3ac01559be6a8071b.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\290d4665bee6f93663b4fd10617099fc.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\2a20fe29e9f99d714a91114433d44f41.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\3111528918f93783843c73f7d274d95a.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\34cbaf6058dc03f0aeda36aee5e3be34.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\38f32b293ec53b8c05f3c1dddcca3f7d.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\39d0730ce0dbb3dbf965713597bab46a.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\3a8ae8bd20563ac2c768c0242dbec25d.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\3b5524642f22c20d85e08dcac9b5fed1.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\41a02253c7d738d8bdd64b636490647c.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\42ab83dc5b15d834201fc95ec8a2aac8.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\44609b5abb3843dbcd64d5d9cba4f2a0.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\44f6325aa3aef610a94c746c3e78b3e2.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\4e2d4096178952e9358760267f3068a2.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\46034821f8a80b266f1f40c16a995eef.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\50bc106405f9e8322752c42bcfbeccf7.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\5c088162cc0adc82face9889a431845c.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\5ce5326953c03c14557c43ad1f3b294f.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\5ff2dc2f02b74330ee891cad21881249.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\60b5a8a511825a9e1ddcecdf5808c69c.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6447b8cc92726b0a58715b9865e3ce70.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\694da84f9514b3b952c5a4a85d6af737.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6a4719503dc602d2dee4d058d26c6f0d.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6a760d4a1de7db98cfbfea54c6c1c0ef.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6c1b801458dde583d8f304c28df1aee7.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6d240aa7b937bd2384ba97f5105229ec.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\6ebd497e13b77ac17c5562e54b723551.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\712bef01a1e2ab8cfdfd6b9218a0daca.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\36ca6a14d8db924f44e90350bc0e1bc4.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\72e22a8c1b686f6df7ebde0936510597.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\73afbe6d6c789e2d78c9fe55cd6453c9.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\754462884ffaaa9c54753535caaa6f38.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\79325e573be1ab735164031dd646d2a6.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\7abedca084e2b314f3b7a5b815bc9058.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\7ad3876b9c11544f56211f32d27c1393.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\81b694318860aec6250532e27bf22dbd.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\7748f7afa50aa73c7b8a65e3d25e3e81.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\83b48d0183db623166c1beab02d2de46.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8660407c4db0ae2e313efc32246d7e2c.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\869917e4b3d993ae5370d96f486afe9e.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8724ca518c8e3de03cb0bb427988ee2e.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8b6a9eb8daf4ad9cd8862b946997380c.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8c864aba3b5ad924c553107b84e8c544.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8e60eb6807a8c33a90f1f0041e4cfd6e.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\8eb314c2e2b13cb141de7581817cb6a7.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\913cd40413a72044046a526caa4f42c7.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\953de71b21899775d1cf16708148367b.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9ce7f8f6479cdb88e22818b6091d5ca0.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9ea16847e7d3d1b55641a2ed8436f7d0.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9dc517710fb1812e2184a46a9f1bad6d.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\9152859c2781654fedddb6d46d9208a6.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a1eb64a9b2b614a9d8be6fef724e5321.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a2b034e5945d91fb6bf19df87e0c05bf.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a50c37eadcb6533058febdf9ee305662.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a57b02cb2d1d750a0444efc1dabd94ea.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a6c3f8f99fe2fb213de0a52f7be70948.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a6c53c394ce0838c62a6acafe3946c57.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a6c76bd2dc50f8037176d9fd09b0d471.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\a773fdab5061eb064043fa7fb78d98de.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ac435a09bbbafb04f8d2b56aeb264731.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\af3c782b23e41da457b7ebe1878dda29.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b01ce62b57eab41305b48f255669a0c7.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b2b79ad3875d815eaea84ead98f858ef.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b7eea2c9f7f36d5db7d8c1f8db465084.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\b5aed229a22cc2294249bd2b8e2b3b24.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\bf5104f965a4d7712917d549fefac9d4.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\c2560bca4f5d6f345d24c7e3dd907a66.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\c6fdfcea6dca0ab0cbf1b85dee39d3d2.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\c85d871e2031e0aef7bb6d2d65b88795.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\caaf46dc759043da6104eeab659b30d1.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\d39a0b90b5a9d2a623c95aa05df0c7fd.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\d3aab46158aecee71ba1c90dfdc47033.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\d912de19187ff98cf27a365586909f9b.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\e0194c01e964ffd087193926fefcfcea.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\e28fe85a3565353dad645edfd7b2f4d5.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ec0271ef75942bd18696281702786b08.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ed9a7e1aafc54c8aa176fcf9c1c64c93.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\eebb485ae96bd2a8639bf5c4467de683.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f0ba09d5facd7507460df95f81c6ad03.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f10a80aef1627b2f50fb3e3fbb55f655.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f11711e233685eed7715a237641e2bdf.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f2bdcc7842b3aa9c3f1bf547a9431767.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\f3f5bc7714ff858e0451a356aebe614b.json
+[11:20:28] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fc94b097d88056083df99145bb3a1b53.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fcde56e1a0348131a0af049ab796fe60.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fe1f9c5ca3ca653985bcc4e81aef1168.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\fe77eeb3d41d31408bddb8c12e05b742.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\babel-webpack\ff37111e1571b87b939ddea2c9e92ef9.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\00e543cd52638bc14eda7d66d60feda4.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\0186fbc97a533f1d6bd884e67ebc8d41.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\020237d54003037df8cafc74ec8e845b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\019a73292a48724f851fb0ed1375ebf5.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\0380f6246e86cdaa0906c83b43581759.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\052968bfbd3cf88791351ed6e5a1a0fd.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\0720d0baa5cb302e062a81a0c0f65aa9.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\099ad21208c608049eb11d06a738fe2e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\09d3db9d7b395874f5aadc68de5fb141.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\12ac8a881dae12fe36fe4e3e8d1924c1.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\13aaa368ca3151ec92bf866af7779669.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\1a0d74cc3ff9edfb807d3a210bf07900.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\1e5d1f5669e93f48cae3b6bb0d31df28.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\15f958a3a7ac4021873b031b85d3cb91.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\22accc5350aa1d7ffd8e6e2797d37788.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\1e8f18b999ab734773e6f00840e30657.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\23fd1763362392cf14fbdaeaeae68cb2.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\26f4f19039bf400be9d1c66cda8bbc8b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\269658fbff412225fcaf6ac96f651529.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2800a12efb41069de5dfb103da1af789.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2b493a6d4fd89ae94df5e17ca7ab9635.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2bac8f2585eb3df174808cd2b4ef6cd8.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2c0f383e388906195f5253302b5727f7.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2d4aa9d16f40874f593ceded8154805f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2f43740bd31030df190299a1078bdf82.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\2ff3d2443aa0253f45eb70aebb1f82b8.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\310419a779e6878623c1917418c2c61e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3250800e00cdd6b8f126ff265a294d0b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\340035f58324e1da75af54dde99369d9.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\367fd4b82d0bfebf861136c9553dbf1e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\34326a0c56d0f9e0d49fa35f09e6edae.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\39f783d6aa36b02084f0feabeaad86c9.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3a2ff60b84f0d4958b819eb28111fb66.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3beb564fbcb9c1da4dac0bb76e9e5165.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3cf7173c44df8153c4794cd2a5bc090c.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3e5f249a7b59f08d2df316096d4777d7.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\3faeb2e36b9f97767e509dc07a5a3bc0.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\40a4607d94731b34beea0ba1a08e3eec.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\44422c0b8adef090e68ff106910fb75d.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\46e1189dbbe410d6c8750f08c3089213.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\49fb7f848183a5c4f0628a8bf607280c.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4a1d7628706fd3d2cbdfaa97088ac869.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4a71928e7030ea6f23a83aa2a4460bc5.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4be81997332e4844359c36e42793480c.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4bf2dc250a313a25d5a0612849fc05cc.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\4c3afdb408fbf36518069d2a372835d7.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5085888430d91e0a88177dd54c23acd8.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\513128380f45b09c0aed3ec76b641258.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\53f541e2233d23f5b4f5c2c20e654e5d.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\54dcfd289cad6b04f7f9118ac427c40d.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\54cf0bb02d8fac418a6b4ebc874cee5e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\567f5bce997629792b0ccb4964a0af03.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\57351ad2cc4d7c459895738e72bb2ccd.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5b6784a3f11ba308810203ac59f9376c.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5e55ea1c8c9744e552390c487cec37bf.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5c20eff600877d9b4f2d58e74f26e4f3.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\5fb382b47ff8e8c7d78753302e54ad89.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\61c55b5df8dc88ef04043ed07b88788f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6365e48df67676eb0f8d97cb325e2a80.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\64a30c00c25d057e56330ab72ebd7758.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\69647ea0722dd3ffa3d4d9b22b03570f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6cc774eaf8b3cd595cb6fb76821bbfbd.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6beb8dcea4dda8e53fee4b03d5d6c06f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6e17fd0de4e99edd6b1b72c446f60e17.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6e1b8c6cd55f8123b81b85f9d4bea2de.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6e45d6e3299e98215413f6b19d2a2de0.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6f3c08cd6015c450a8ee62a6c4955d88.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\6fcc313a15d286050082bac3d28df081.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\70066d613342ff5db1e5a9ecc7a5a6e8.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\710f84534d630e7bafed9da7bd4815e3.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\725c27b86eb0056bae6a8beca4d6853d.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\737deb05d90cbdbdfe4937c58b8c26ea.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\73be7a9771fe3631405b688fe1335009.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\758348bda5b4902390b42a9007d1fc33.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7528efee269adb55f35064fb734c4902.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\77b37488d4c43477c736775a16b65cb1.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\766de9c76e7a0d02146b2056ee5b1187.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\791db32e3f68deb483b972e467923287.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\79289d7085fe29c4606ed9a073e2dbb2.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7abdeaafa29f36f20e2f83d87494e030.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7b5346eaf21a8375dfb51de918dc6c1f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\7bd7faaabfdbefce3638c4033eb90f25.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\817379d574931feeafd0a02334965d23.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\824622ebfcab491274c903ea32966aaf.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\825aead2414c68a08365299d87974118.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\82d738ba205e8be5064804aab7d0988e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\838997e9a615817e4646f4f6ac12bb71.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\84361762f8aa4415f1fea9fb90569768.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\857f354c69ac8677dfed434a353e74a8.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\8db1e650f11ba6a1ec2c724eea65b6e4.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\923c18be994e63ccef36cf41f76571e5.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9354987d2179cecbdc3a3bf7cd295dde.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9358ca37efd659a80fff12a58ad8b735.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\94e23001bda5cfb7b180849e9a9f6185.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\956c2fc4abec29c178257616b48a7072.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\966fef4a94032cc5707cc39cd580723e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9ac613261b492de35796f89dc351346b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9baa43f21869e07e57a3643d2851db9d.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9f2b7dbf0b5dc83ff174f0857d3762a2.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\9fc86343d4d1e9c87b7a1ea30b797b20.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a2017578fce0b8d32b9946828d17b24b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a3245acc73fbc9f423419e350e7a1e14.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a3dd0989ae6116cad7ea95c80b11d471.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\a49d1477e2b21491ee8a955b35acb00c.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b08fc00129baae67c6c0a97dd2d146c7.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b19ff1e05a5a254f1efdd5567f33d62b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b456d0a7caef40f2a173046f6113714a.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b4d0278df4c3b38e07598df0375f619b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b8918f177305378b58b4e47284d63538.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\b950b1b2016557fdf6a85aad3cda1c27.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ba35347c2ade322988f8e62375db1746.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\baee087d75d7d84d78621debd60aa645.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bc17961134bf7cfffabe76888e278bac.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bcf4776373f314aced4ccb165adb8826.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bf843be65808959ea8d65ffe6e427991.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\bd7702370aa32fac867ebc99c3ec326b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c164b43bd50589ef71a38907ef23e8a0.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c1825675773ea8a0482a30210bfb818f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c5fcd8e74ec8f5d6daa1713148aa8b86.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c3200956a6a2f88963f48314d4f1f261.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c6a489e5958b17f42f47a62f406ed057.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\c7afcba3252c6bbceab8c8ed940054ab.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d1195326b45987f77bf373efaf78af40.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d2877dca1bf63398af4766f1e812c8dc.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d4598178dc6db1dccc93c9e742626043.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d49beeb069d697ad5bf39c2ea969cb60.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d5ec7189d3add7184ed2ac83083cd716.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d6c35d615f4def92f293aa8ca70742a0.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d7783e0225db50fddd295675db4370f3.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d832cc167263dc16704367d1a25c71bb.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ded2e2c778bee72989c72ca3e89841f7.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d8c5dddffdd05210a723d804598c56c1.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\d8e252e73d4d0d8fda32607db3145753.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\dfe8d643d7dc082d4625e01a71dba089.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\dff5548978a334b27847d2bab6fb3e3a.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e045f3c4691f30031191fe6850c469bc.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e0e3c553b892dcc382b39b4d17d487c8.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e0f02a28380ce7df59ded23dc6e824df.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e6b6cbca2e82390e7e2cc5f3dc9a116e.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e82e603fd08c5b04262b9408f3f04940.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e80aef974cfe9d4ac876d89648b8f4dd.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\e9b10258426749034c57682a6e9b92b1.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\eb29eaed23089460295dbe21343b3f4b.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ea510e217c2ac059f0b77c6599898eea.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ecc420afc2a5e9872b7ea0c62c6b9776.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\eb941824f5bce6063b77c8c5a3469e68.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\ef5c2f62049e5fb15452fbada3dbe186.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\efedb277b4b0518267a956ebbae05f58.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\f7878e58a5923dd664197258ae30fd58.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\f37e7b90ef3260920acbd699872a837d.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\f9e059123220993d4b9ee9125d7fdacd.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fa9cee9e0836f66ad93ca65d44c2432f.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fb688d71c6e71c2487957b410e8aabee.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fcc48c88ea79213bffc2242c9987db95.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.9\babel-webpack\fcfe7cf710e82c21f10e80551e320450.json
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\0.pack
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\1.pack
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\2.pack
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\3.pack
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\4.pack
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\index.pack
+[11:20:29] Including      : C:\projects\taskbox\.angular\cache\13.3.7\angular-webpack\baea40ab63954942bf41eb8563c23ae9b3393c29\index.pack.old
+[11:20:29] Searching package.json file
+[11:20:29] package.json file found
+[11:20:29] Processing package.json dependencies
+[11:20:29] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[11:20:29] README.md file found
+[11:20:29] Error during C:\projects\taskbox\CHANGELOG read
+[11:20:29] Continuing without CHANGELOG.md file
+[11:20:29] Error during C:\projects\taskbox\CONTRIBUTING read
+[11:20:29] Continuing without CONTRIBUTING.md file
+[11:20:29] LICENSE.md file found
+[11:20:29] Error during C:\projects\taskbox\TODO read
+[11:20:29] Continuing without TODO.md file
+[11:20:29] Get dependencies data
+[11:20:29] parsing        : C:/projects/taskbox/jest-config/setup.ts
+[11:20:29] parsing        : C:/projects/taskbox/src/main.ts
+[11:20:29] parsing        : C:/projects/taskbox/src/polyfills.ts
+[11:20:29] parsing        : C:/projects/taskbox/src/app/app.component.ts
+[11:20:29] found          : AppComponent
+[11:20:29] parsing        : C:/projects/taskbox/src/app/app.module.ts
+[11:20:29] found          : AppModule
+[11:20:29]                : - imports:
+[11:20:29]                : 	- BrowserModule
+[11:20:29]                : - declarations:
+[11:20:29]                : 	- AppComponent
+[11:20:29]                : - bootstrap:
+[11:20:29]                : 	- AppComponent
+[11:20:29] parsing        : C:/projects/taskbox/jest-config/__mocks__/globalMocks.ts
+[11:20:29] parsing        : C:/projects/taskbox/src/environments/environment.ts
+[11:20:29] found          : environment
+[11:20:29] parsing        : C:/projects/taskbox/src/environments/environment.prod.ts
+[11:20:29] found          : environment
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/Button.stories.ts
+[11:20:29] found          : Template
+[11:20:29] found          : Primary
+[11:20:29] found          : Secondary
+[11:20:29] found          : Large
+[11:20:29] found          : Small
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/button.component.ts
+[11:20:29] found          : ButtonComponent
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/header.component.ts
+[11:20:29] found          : HeaderComponent
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/Header.stories.ts
+[11:20:29] found          : Template
+[11:20:29] found          : LoggedIn
+[11:20:29] found          : LoggedOut
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/page.component.ts
+[11:20:29] found          : PageComponent
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/Page.stories.ts
+[11:20:29] found          : Template
+[11:20:29] found          : LoggedOut
+[11:20:29] found          : LoggedIn
+[11:20:29] parsing        : C:/projects/taskbox/src/stories/User.ts
+[11:20:29] found          : User
+[11:20:29] -------------------
+[11:20:29] Project statistics 
+[11:20:29] - files      : 328
+[11:20:29] - module     : 1
+[11:20:29] - component  : 4
+[11:20:29] - interface  : 1
+[11:20:29] -------------------
+[11:20:29] Prepare components
+[11:20:29]  AppComponent has a templateUrl, include it
+[11:20:29]  AppComponent has styleUrls, include them
+[11:20:29]  ButtonComponent has styleUrls, include them
+[11:20:29]  HeaderComponent has styleUrls, include them
+[11:20:29]  PageComponent has styleUrls, include them
+[11:20:29] Prepare modules
+[11:20:29] Prepare interfaces
+[11:20:29] Prepare miscellaneous
+[11:20:29] Process documentation coverage report
+[11:20:29] Generating documentation in export format json
+[11:20:29] Documentation generated in ./ in 1.08 seconds
 info @storybook/angular v6.5.12
 info 
-info => Cleaning outputDir: C:\Users\OLASIE~1\AppData\Local\Temp\chromatic--3744-IqVJ5zleUU3W
+info => Cleaning outputDir: C:\Users\OLASIE~1\AppData\Local\Temp\chromatic--27000-UJZHYDRHPODw
 info => Loading presets
 WARN   Failed to load preset: {"type":"presets"} on level 1
 ERR! TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received an instance of Object
@@ -590,54 +592,61 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building 0/17 entries 2/17 dependencies 0/2 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
-<s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/14 modules
+<s> [webpack.Progress] 10% building 0/17 entries 12/18 dependencies 0/12 modules
+<s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/13 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
 <s> [webpack.Progress] 10% building 0/17 entries 14/18 dependencies 0/14 modules
-<s> [webpack.Progress] 10% building 0/17 entries 15/18 dependencies 0/14 modules
-<s> [webpack.Progress] 10% building 0/17 entries 82/140 dependencies 0/47 modules
-<s> [webpack.Progress] 13% building 1/17 entries 115/141 dependencies 2/74 modules
-<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
-<s> [webpack.Progress] 13% building 1/17 entries 117/146 dependencies 2/75 modules
+<s> [webpack.Progress] 10% building 0/17 entries 19/50 dependencies 0/18 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx1-csf/loader.js
+<s> [webpack.Progress] 10% building 0/17 entries 90/140 dependencies 0/54 modules
+<s> [webpack.Progress] 13% building 1/17 entries 102/149 dependencies 2/61 modules
 <s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 13% building 1/17 entries 173/242 dependencies 9/86 modules
-<s> [webpack.Progress] 13% building 1/17 entries 318/421 dependencies 32/129 modules
-<s> [webpack.Progress] 16% building 2/17 entries 563/622 dependencies 74/224 modules
-<s> [webpack.Progress] 19% building 3/17 entries 586/861 dependencies 77/240 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1024/1200 dependencies 120/323 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1300/1514 dependencies 154/403 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1400/1614 dependencies 169/414 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1583/1700 dependencies 175/438 modules
-<s> [webpack.Progress] 19% building 3/17 entries 1700/2154 dependencies 190/454 modules
-<s> [webpack.Progress] 22% building 4/17 entries 2184/2407 dependencies 261/652 modules
-<s> [webpack.Progress] 22% building 4/17 entries 2500/2972 dependencies 297/670 modules
-<s> [webpack.Progress] 22% building 4/17 entries 2982/3100 dependencies 304/901 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3500/3547 dependencies 349/918 modules
-<s> [webpack.Progress] 22% building 4/17 entries 3700/3830 dependencies 393/950 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4188/4300 dependencies 471/999 modules
-<s> [webpack.Progress] 22% building 4/17 entries 4839/4900 dependencies 546/1095 modules
-<s> [webpack.Progress] 22% building 4/17 entries 5066/5200 dependencies 678/1131 modules
-<s> [webpack.Progress] 22% building 4/17 entries 5450/5600 dependencies 790/1188 modules
-<s> [webpack.Progress] 22% building 4/17 entries 6200/6273 dependencies 1014/1374 modules
-<s> [webpack.Progress] 22% building 4/17 entries 6500/6577 dependencies 1094/1404 modules
-<s> [webpack.Progress] 22% building 4/17 entries 6573/6700 dependencies 1115/1427 modules
-<s> [webpack.Progress] 22% building 4/17 entries 6700/6981 dependencies 1177/1453 modules
-<s> [webpack.Progress] 23% building 4/17 entries 7000/7046 dependencies 1259/1629 modules
-<s> [webpack.Progress] 25% building 4/17 entries 7100/7176 dependencies 1428/1662 modules
-<s> [webpack.Progress] 26% building 4/17 entries 7416/7500 dependencies 1532/1704 modules
-<s> [webpack.Progress] 27% building 4/17 entries 7865/7893 dependencies 1600/1770 modules
-<s> [webpack.Progress] 28% building 5/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 29% building 6/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 32% building 7/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 35% building 8/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 39% building 9/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 42% building 10/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 45% building 11/17 entries 7914/7945 dependencies 1665/1778 modules
-<s> [webpack.Progress] 48% building 12/17 entries 7914/7945 dependencies 1666/1778 modules
-<s> [webpack.Progress] 52% building 13/17 entries 8072/8108 dependencies 1703/1804 modules
-<s> [webpack.Progress] 55% building 14/17 entries 8309/8313 dependencies 1832/1862 modules
-<s> [webpack.Progress] 58% building 15/17 entries 8329/8329 dependencies 1855/1871 modules
-<s> [webpack.Progress] 61% building 16/17 entries 8329/8329 dependencies 1871/1871 modules
-<s> [webpack.Progress] 65% building 17/17 entries 8329/8329 dependencies 1871/1871 modules
+<s> [webpack.Progress] 13% building 1/17 entries 129/164 dependencies 2/82 modules
+<s> [webpack.Progress] 13% building 1/17 entries 191/247 dependencies 9/100 modules
+<s> [webpack.Progress] 13% building 1/17 entries 233/300 dependencies 10/125 modules
+<s> [webpack.Progress] 13% building 1/17 entries 345/449 dependencies 34/147 modules
+<s> [webpack.Progress] 16% building 2/17 entries 577/636 dependencies 67/239 modules
+<s> [webpack.Progress] 19% building 3/17 entries 637/930 dependencies 80/250 modules
+<s> [webpack.Progress] 19% building 3/17 entries 932/1000 dependencies 88/347 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1200/1267 dependencies 149/372 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1231/1267 dependencies 149/400 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1321/1700 dependencies 156/416 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1400/1774 dependencies 159/419 modules
+<s> [webpack.Progress] 19% building 3/17 entries 1666/1971 dependencies 185/500 modules
+<s> [webpack.Progress] 22% building 4/17 entries 2066/2678 dependencies 261/642 modules
+<s> [webpack.Progress] 22% building 4/17 entries 2555/2923 dependencies 300/763 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3164/3200 dependencies 323/899 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3425/3500 dependencies 351/923 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3672/3700 dependencies 388/968 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3800/3969 dependencies 396/973 modules
+<s> [webpack.Progress] 22% building 4/17 entries 3978/4000 dependencies 405/995 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4600/4676 dependencies 542/1033 modules
+<s> [webpack.Progress] 22% building 4/17 entries 4900/4991 dependencies 587/1096 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5467/5600 dependencies 834/1194 modules
+<s> [webpack.Progress] 22% building 4/17 entries 5487/5700 dependencies 834/1209 modules
+<s> [webpack.Progress] 22% building 4/17 entries 6100/6149 dependencies 1024/1354 modules
+<s> [webpack.Progress] 22% building 4/17 entries 6497/6582 dependencies 1100/1413 modules
+<s> [webpack.Progress] 22% building 4/17 entries 6660/6800 dependencies 1157/1441 modules
+<s> [webpack.Progress] 23% building 4/17 entries 6897/6949 dependencies 1183/1600 modules
+<s> [webpack.Progress] 25% building 4/17 entries 7076/7100 dependencies 1370/1662 modules
+<s> [webpack.Progress] 26% building 4/17 entries 7169/7300 dependencies 1455/1669 modules
+<s> [webpack.Progress] 26% building 4/17 entries 7400/7545 dependencies 1507/1718 modules
+<s> [webpack.Progress] 27% building 4/17 entries 7600/7657 dependencies 1547/1736 modules
+<s> [webpack.Progress] 27% building 4/17 entries 7800/7864 dependencies 1569/1764 modules
+<s> [webpack.Progress] 27% building 4/17 entries 7970/8000 dependencies 1612/1792 modules
+<s> [webpack.Progress] 28% building 5/17 entries 8002/8020 dependencies 1668/1793 modules
+<s> [webpack.Progress] 29% building 6/17 entries 8002/8020 dependencies 1669/1793 modules
+<s> [webpack.Progress] 32% building 7/17 entries 8002/8020 dependencies 1670/1793 modules
+<s> [webpack.Progress] 35% building 8/17 entries 8002/8020 dependencies 1671/1793 modules
+<s> [webpack.Progress] 39% building 9/17 entries 8002/8020 dependencies 1672/1793 modules
+<s> [webpack.Progress] 42% building 10/17 entries 8002/8020 dependencies 1673/1793 modules
+<s> [webpack.Progress] 45% building 11/17 entries 8002/8020 dependencies 1674/1793 modules
+<s> [webpack.Progress] 48% building 12/17 entries 8002/8020 dependencies 1675/1793 modules
+<s> [webpack.Progress] 52% building 13/17 entries 8062/8100 dependencies 1723/1802 modules
+<s> [webpack.Progress] 55% building 14/17 entries 8315/8318 dependencies 1835/1869 modules
+<s> [webpack.Progress] 58% building 15/17 entries 8325/8325 dependencies 1857/1873 modules
+<s> [webpack.Progress] 61% building 16/17 entries 8325/8325 dependencies 1873/1873 modules
+<s> [webpack.Progress] 65% building 17/17 entries 8325/8325 dependencies 1873/1873 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
 <s> [webpack.Progress] 69% building finish
@@ -738,36 +747,36 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
 <s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
-info => Manager built (49 s)
+info => Manager built (1.12 min)
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.2df01fc6.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.2df01fc6.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.6be02c79.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.6be02c79.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 434.9a263805.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 434.9a263805.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.714118a0.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.714118a0.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.5cbe86fd.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.5cbe86fd.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.52f15082.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.52f15082.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.3fb0424e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.3fb0424e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 434.2f03d478.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 434.2f03d478.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.85fe76b4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.85fe76b4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.0f9493f0.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.0f9493f0.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.bc15ca0e.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.bc15ca0e.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.12c02689.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.12c02689.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.d34d16da.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.d34d16da.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.e0c12367.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.e0c12367.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.d8499416.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.d8499416.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.2c2b94a8.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.2c2b94a8.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.76d688f4.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.76d688f4.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 791.72655f26.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 791.72655f26.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.4057cdd5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.4057cdd5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 153.5e97c8bb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 153.5e97c8bb.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 791.72655f26.iframe.bundle.js attach SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 791.72655f26.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 153.5e97c8bb.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 153.5e97c8bb.iframe.bundle.js attached SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
@@ -778,8 +787,8 @@ info => Manager built (49 s)
 <s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.6e130052.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.6e130052.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.690e8b94.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.690e8b94.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.e1dee4d4.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.e1dee4d4.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 434.2c467153.iframe.bundle.js generate SourceMap
@@ -824,7 +833,7 @@ info => Manager built (49 s)
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (60 s)
+info => Preview built (1.32 min)
 WARN C:/projects/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
 WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
 WARN C:/projects/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
@@ -839,17 +848,17 @@ WARN asset size limit: The following asset(s) exceed the recommended size limit 
 WARN This can impact web performance.
 WARN Assets: 
 WARN   471.8e0c297f.iframe.bundle.js (791 KiB)
-WARN   791.d796cf2b.iframe.bundle.js (3.7 MiB)
+WARN   153.362c249a.iframe.bundle.js (3.7 MiB)
 WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
 WARN Entrypoints:
 WARN   main (3.8 MiB)
 WARN       runtime~main.e1dee4d4.iframe.bundle.js
-WARN       791.d796cf2b.iframe.bundle.js
+WARN       153.362c249a.iframe.bundle.js
 WARN       main.css
-WARN       main.6e130052.iframe.bundle.js
+WARN       main.690e8b94.iframe.bundle.js
 WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: C:\Users\OLASIE~1\AppData\Local\Temp\chromatic--3744-IqVJ5zleUU3W
+info => Output directory: C:\Users\OLASIE~1\AppData\Local\Temp\chromatic--27000-UJZHYDRHPODw

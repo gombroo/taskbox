@@ -15,7 +15,7 @@ export default {
   parameters: {
     design: {
       type: 'figma',
-      url: 'https://www.figma.com/file/DY8LSKWsDzxN5pqPqopTqr/IIBA?node-id=2%3A54',
+      url: 'https://www.figma.com/file/gZE2IY38YNAAqfnLJfkg32/Design-System?node-id=197%3A1613',
     }
   },
 } as Meta;
