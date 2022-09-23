@@ -1,18 +1,22 @@
 // also exported from '@storybook/angular' if you can deal with breaking changes in 6.1
 import { Story, Meta } from '@storybook/angular/types-6-0';
 import Button from './button.component';
+import { withDesign } from 'storybook-addon-designs';
 
 // More on default export: https://storybook.js.org/docs/angular/writing-stories/introduction#default-export
 export default {
   title: 'Example/Button',
   component: Button,
+  decorators: [withDesign],
   // More on argTypes: https://storybook.js.org/docs/angular/api/argtypes
   argTypes: {
     backgroundColor: { control: 'color' },
   },
-  design: {
-    type: 'figma',
-    url: 'https://www.figma.com/file/DY8LSKWsDzxN5pqPqopTqr/IIBA?node-id=2%3A54',
+  parameters: {
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/DY8LSKWsDzxN5pqPqopTqr/IIBA?node-id=2%3A54',
+    }
   },
 } as Meta;
 
