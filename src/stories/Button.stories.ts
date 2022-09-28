@@ -80,12 +80,6 @@ Medium.parameters = {
   }
 };
 
-export const Medium = Template.bind({});
-Medium.args = {
-  size: 'medium',
-  label: 'Button Medium',
-};
-
 export const Small = Template.bind({});
 Small.args = {
   size: 'small',
