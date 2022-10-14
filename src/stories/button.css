@@ -16,6 +16,7 @@
   background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
+
 .storybook-button--small {
   font-size: 12px;
   padding: 10px 16px;
@@ -28,4 +29,9 @@
 .storybook-button--large {
   font-size: 16px;
   padding: 12px 24px;
+}
+
+.storybook-button--superlarge {
+  font-size: 36px;
+  padding: 14px 26px;
 }

@@ -54,6 +54,21 @@ Secondary.parameters = {
   }
 };
 
+
+export const Superlarge = Template.bind({});
+Superlarge.args = {
+  size: 'superlarge',
+  label: 'Button Super Large',
+};
+
+Superlarge.parameters = {
+  design: {
+    type: 'figma',
+    url: 'https://www.figma.com/file/gZE2IY38YNAAqfnLJfkg32/Design-System?node-id=459%3A1637',
+  }
+};
+
+
 export const Large = Template.bind({});
 Large.args = {
   size: 'large',
